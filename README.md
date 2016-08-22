@@ -9,3 +9,4 @@ To build:
   
     make nolibraries
 
+Thanks to reddit users oridb and cowinabadplace for their significant contributions to this vital work.
